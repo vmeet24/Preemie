@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "394515540511",
+    "firebase_url": "https://preemie-74c43.firebaseio.com",
+    "project_id": "preemie-74c43",
+    "storage_bucket": "preemie-74c43.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:394515540511:android:f719b39351e83cf8",
+        "android_client_info": {
+          "package_name": "com.example.medico"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "394515540511-qjl81k7b6hd247m255g06cq41ogdcfs2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.medico",
+            "certificate_hash": "53838c9ae5674ea5a9241d63cf02ddfcf0ff291d"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_ON2hr2aUCDH0I8yk9ALCs1DNlIX5pRk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "394515540511-a718dlmd7cs048uftuqvrho62mrg7dhg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:394515540511:android:3401991fdd54f387",
+        "android_client_info": {
+          "package_name": "com.example.preemie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "394515540511-4g4sfrmrh4lb4165tros93tckktsn8u4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.preemie",
+            "certificate_hash": "53838c9ae5674ea5a9241d63cf02ddfcf0ff291d"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_ON2hr2aUCDH0I8yk9ALCs1DNlIX5pRk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "394515540511-a718dlmd7cs048uftuqvrho62mrg7dhg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
